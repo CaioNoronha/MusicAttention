@@ -17,5 +17,3 @@ A game to improve and practice your attention with music and notes!
 * It is recommended to use earphones.
  
  ## To start the game, simply press the play button. Good game!
- ![](playButton.png)
- */
