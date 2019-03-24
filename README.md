@@ -14,6 +14,6 @@ A game to improve and practice your attention with music and notes!
 * With each hit, you get 100 points. There are a total of 32 notes, that is, 3200 points.
 * If you hit the note, the background will glow green, as in the following image
 * If you miss the note, the background will appear in red, as in the following image
-* It is recommended to use earphones.
+* It is recommended to use headphones.
  
  ## To start the game, simply press the play button. Good game!
