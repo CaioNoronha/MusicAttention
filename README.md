@@ -12,8 +12,8 @@ A game to improve and practice your attention with music and notes!
 * When you hear the sound shown before coming from the left, press on the left.
 * When you hear the sound shown before coming from the right, press on the right.
 * With each hit, you get 100 points. There are a total of 32 notes, that is, 3200 points.
-* If you hit the note, the background will glow green, as in the following image
-* If you miss the note, the background will appear in red, as in the following image
+* If you hit the note, the background will glow green.
+* If you miss the note, the background will appear in red.
 * It is recommended to use headphones.
  
  ## To start the game, simply press the play button. Good game!
