@@ -3,7 +3,7 @@ A game to improve and practice your attention with music and notes!
  
  
  ## How it works?
-  The game works with binaural audio (sounds that come exclusively from one side of the handset, in this case left or right).
+  The game works with binaural audio (sounds that come exclusively from one side of the headdset, in this case, left or right).
  
  The games  starts with a tutorial, teaching when listening to a specific sound on one side of the headset / audio output, press that same side on the game screen.
  The goal of the game is to raise your focus and attention, based on the test of people with ADHD (Attention Deficit Hyperactivity Disorder), in which they need to focus on sounds by touching the sides of the handset and pressing a button.
