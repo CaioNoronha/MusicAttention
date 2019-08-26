@@ -1,8 +1,6 @@
-  
+# Welcome to Music Attention!
  My WWDC 2019 project.
  
- 
- # Welcome to Music Attention!
 A game to improve and practice your attention with music and notes!
  
  ## How it works?
