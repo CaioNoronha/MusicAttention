@@ -1,5 +1,5 @@
 # Welcome to Music Attention!
- My Scholarship submissions to WWDC 2019 project(Rejected).
+ My Scholarship submissions to WWDC 2019 project.
  
 A game to improve and practice your attention with music and notes!
  
