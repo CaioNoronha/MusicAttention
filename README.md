@@ -1,5 +1,5 @@
 # Welcome to Music Attention!
- My WWDC 2019 project.
+ My Scholarship submissions to WWDC 2019 project(Rejected).
  
 A game to improve and practice your attention with music and notes!
  
