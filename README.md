@@ -1,6 +1,9 @@
-  # Welcome to Music Attention!
-A game to improve and practice your attention with music and notes!
+  
+ My WWDC 2019 project.
  
+ 
+ # Welcome to Music Attention!
+A game to improve and practice your attention with music and notes!
  
  ## How it works?
   The game works with binaural audio (sounds that come exclusively from one side of the headdset, in this case, left or right).
@@ -16,4 +19,4 @@ A game to improve and practice your attention with music and notes!
 * If you miss the note, the background will appear in red.
 * It is recommended to use headphones.
  
- ## To start the game, simply press the play button. Good game!
+ ### To start the game, simply press the play button. Good game!
