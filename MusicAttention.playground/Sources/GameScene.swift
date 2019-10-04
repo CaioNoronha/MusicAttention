@@ -15,6 +15,7 @@ public class GameScene: SKScene {
     
     //Properties
     
+    //MARK: Variables
     var score = 0
     var timerS = 0.5
     var waitTimer = 21.0
@@ -62,7 +63,7 @@ public class GameScene: SKScene {
     //Color of the label
     let textLabelColor : UIColor = #colorLiteral(red: 0, green: 0.462745098, blue: 0.6980392157, alpha: 1)
     
-    
+    //MARK: Contructor
     public init(frame: CGRect) {
         super.init(size: frame.size)
     }
@@ -70,6 +71,7 @@ public class GameScene: SKScene {
         super.init(coder: aDecoder)
     }
     
+    //MARK: Method
     //Operations
     public override func didMove(to view: SKView) {
         super.didMove(to: view)
